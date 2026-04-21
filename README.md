@@ -6,13 +6,7 @@ A clean, responsive web app that generates strong, secure passwords instantly �
 
 ## 🌐 Live Demo
 
-🔗 [Click here to try it live](https://giri89.github.io/password-generator)
-
----
-
-## 📸 Preview
-
-> _Add a screenshot here after hosting — drag and drop an image into this README on GitHub_
+🔗 [Click here to try it live](https://get4password.vercel.app/)
 
 ---
 
@@ -58,13 +52,13 @@ A clean, responsive web app that generates strong, secure passwords instantly �
 
 ---
 
-## 📁 Project Structure
+```plaintext
 password-generator/
 ├── index.html        # Main HTML structure
 ├── style.css         # All styling & responsive design
 ├── script.js         # Password generation logic
 └── README.md         # Project documentation
-
+```
 ---
 
 ## 🧠 How It Works
