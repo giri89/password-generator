@@ -3,7 +3,12 @@
 A clean, responsive web app that generates strong, secure passwords instantly — with full customization and one-click copy.
 
 ---
+## 📸 Preview
 
+![Password Generator Preview](preview.png)
+<img width="1897" height="836" alt="preview" src="https://github.com/user-attachments/assets/305d7797-373c-43a9-ab42-9741a8ef32dd" />
+
+---
 ## 🌐 Live Demo
 
 🔗 [Click here to try it live](https://get4password.vercel.app/)
