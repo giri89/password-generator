@@ -100,3 +100,4 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 ⭐ **If you found this useful, please give it a star!** ⭐
+
