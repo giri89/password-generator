@@ -1,6 +1,6 @@
 # 🔐 Random Password Generator
 
-A clean, responsive web app that generates strong, secure passwords instantly — with full customization and one-click copy.
+A clean, responsive web app that generates strong, secure passwords instantly - with full customization and one-click copy.
 
 ---
 ## 📸 Preview
