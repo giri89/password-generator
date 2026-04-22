@@ -5,7 +5,6 @@ A clean, responsive web app that generates strong, secure passwords instantly â€
 ---
 ## ğŸ“¸ Preview
 
-![Password Generator Preview](preview.png)
 <img width="1897" height="836" alt="preview" src="https://github.com/user-attachments/assets/305d7797-373c-43a9-ab42-9741a8ef32dd" />
 
 ---
